@@ -1,5 +1,7 @@
 pandas
 polars
-numpy
+numpy==1.24
 bokeh
 pyarrow
+statsmodels
+sktime[all_extras]
