@@ -3,3 +3,6 @@ config.py
 venv/
 Data/
 __pycache__/
+
+.DS_Store
+# Ignore Python bytecode files
